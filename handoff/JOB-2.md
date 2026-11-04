@@ -10,7 +10,7 @@
 
 - gitea repo: `snavk/dot-pipeline-demo` (private, unreachable from your box — do not try)
 - staging repo: `disbenovi/dot-pipeline-demo` (public)
-- branch to produce: `dot/issue-<number>`
+- branch to produce: `dot/issue-2`
 - base commit: `80dbfad19b12cd366b7101074357361c433702ad`
 - acceptance: `python3 -m unittest discover -s tests -v`
 
